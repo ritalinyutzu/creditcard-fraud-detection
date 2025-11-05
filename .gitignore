@@ -1,0 +1,29 @@
+# 大型資料檔案
+*.csv
+creditcard.csv
+creditcardfraud.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# 模型檔案 (如果很大)
+*.pkl
+*.joblib
+*.h5
+
+# IDE
+.vscode/
+.idea/
